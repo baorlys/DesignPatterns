@@ -1,5 +1,5 @@
 # Decorator 
-**Also known as Wrapper.**
+**Also known as:** Wrapper.
 
 The Decorator design pattern is a structural pattern used to dynamically add behavior to objects without affecting the behavior of other objects from the same class. It’s particularly useful when you need to add responsibilities to objects in a flexible and reusable manner.
 
