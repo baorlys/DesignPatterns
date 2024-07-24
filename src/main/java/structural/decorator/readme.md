@@ -25,3 +25,6 @@ The Decorator design pattern is a structural pattern used to dynamically add beh
 
 - Extending functionality of classes without modifying existing code.
 - Adding responsibilities to objects dynamically.
+- Implementing multiple optional behaviors.
+
+
