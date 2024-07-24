@@ -10,4 +10,6 @@ Structural design patterns explain how to assemble objects and classes into larg
 ## [3. Behavioral Patterns](src/main/java/behavioral)
 Behavioral design patterns are concerned with algorithms and the assignment of responsibilities between objects.
 
-
+***References***:
+- [Refactoring Guru](https://refactoring.guru/design-patterns)
+- [Gangs of Four (GoF) Design Patterns](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns)
